@@ -1,9 +1,9 @@
 <!-- Encabezado / Banner -->
-
+<!--
 <p align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/1280x300/0D1117/FFFFFF%3Ftext%3DJames%2BOvalle%2BBarrera" alt="Banner de perfil de James Ovalle" width="100%"/>
+  <img src="" alt="James Ovalle" width="100%"/>
 </p>
-
+-->
 <!-- Introducción -->
 
 <h1 align="center">¡Hola! Soy James Ovalle 👋</h1>
@@ -153,7 +153,7 @@ Estas son algunas de las tecnologías con las que he trabajado y estoy aprendien
 <h2 align="center">📫 Conecta Conmigo</h2>
 <p align="center">
 
-  <a href="https://www.google.com/search?q=https://linkedin.com/in/jamesovallebarrera/" target="blank">
+  <a href="https://linkedin.com/in/jamesovallebarrera/" target="blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi perfil de LinkedIn" />
   </a>
   
@@ -161,6 +161,8 @@ Estas son algunas de las tecnologías con las que he trabajado y estoy aprendien
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Envíame un correo" />
   </a>
 
-  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+  <a href="">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 
 </p>
