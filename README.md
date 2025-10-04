@@ -151,7 +151,7 @@ Estas son algunas de las tecnologías con las que he trabajado y estoy aprendien
 <!-- Conecta Conmigo -->
 
 <h2 align="center">📫 Conecta Conmigo</h2>
-<p align="center">
+<p>
 
   <a href="https://linkedin.com/in/jamesovallebarrera/" target="blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi perfil de LinkedIn" />
