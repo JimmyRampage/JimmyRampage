@@ -32,7 +32,7 @@ Estas son algunas de las tecnologías con las que he trabajado y estoy aprendien
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
 <!-- Bases de Datos -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a>
 <!-- Herramientas -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
@@ -53,6 +53,8 @@ Estas son algunas de las tecnologías con las que he trabajado y estoy aprendien
 <p align="center">
   
 ![JimmyRampage's Stats](https://github-readme-stats.vercel.app/api?username=JimmyRampage&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![JimmyRampage's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JimmyRampage&theme=dark&hide_border=true)
 
 ![JimmyRampage's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyRampage&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
