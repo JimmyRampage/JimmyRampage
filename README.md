@@ -51,9 +51,11 @@ Estas son algunas de las tecnologías con las que he trabajado y estoy aprendien
 
 <h2 align="center">📊 Mis Estadísticas en GitHub</h2>
 <p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJimmyRampage%26show_icons%3Dtrue%26locale%3Des%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Estadísticas de GitHub de JimmyRampage" />
+  
+![JimmyRampage's Stats](https://github-readme-stats.vercel.app/api?username=JimmyRampage&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DJimmyRampage%26locale%3Des%26layout%3Dcompact%26theme%3Ddracula" alt="Lenguajes más usados por JimmyRampage" />
+![JimmyRampage's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyRampage&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 </p>
 
 <!-- Conecta Conmigo -->
