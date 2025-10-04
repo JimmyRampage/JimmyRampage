@@ -13,9 +13,8 @@
 <em>Actualmente estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en España.</em>
 </p>
 
-<p align="center">
+
 Soy un profesional chileno que en 2024 decidió cruzar el Atlántico para transformar una pasión de toda la vida en una carrera. Mi objetivo es especializarme en el <strong>desarrollo backend</strong>, creando lógica de negocio robusta y APIs eficientes. Me apasiona resolver problemas a través de código <strong>claro, legible y mantenible</strong>, porque entiendo que una buena comprensión de los fundamentos abre la mente a infinitas posibilidades.
-</p>
 
 <!-- Stack Tecnológico -->
 
@@ -24,10 +23,17 @@ Soy un profesional chileno que en 2024 decidió cruzar el Atlántico para transf
 Estas son algunas de las tecnologías con las que he trabajado y estoy aprendiendo:
 <br /><br />
 <!-- Lenguajes -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 <!-- Backend & Frontend -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
