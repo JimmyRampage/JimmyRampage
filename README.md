@@ -77,15 +77,12 @@ Estas son algunas de las tecnologías con las que he trabajado y estoy aprendien
 <h2 align="center">📫 Conecta Conmigo</h2>
 <p align="center">
 
-<a href="https://www.google.com/search?q=https://linkedin.com/in/jamesovallebarrera/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi perfil de LinkedIn" />
-</a>
-
-<a href="mailto:jamesovallebarrera@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Envíame un correo" />
-</a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesovallebarrera@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesovallebarrera@gmail.com)
-**→ jamesovallebarrera@gmail.com**
+  <a href="https://www.google.com/search?q=https://linkedin.com/in/jamesovallebarrera/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi perfil de LinkedIn" />
+  </a>
+  
+  <a href="mailto:jamesovallebarrera@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Envíame un correo" />
+  </a>
 
 </p>
