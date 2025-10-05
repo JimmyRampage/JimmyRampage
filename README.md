@@ -155,17 +155,15 @@ Estas son algunas de las tecnologías con las que he trabajado y estoy aprendien
 <h2 align="center">📫 Conecta Conmigo</h2>
 <p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamesovallebarrera/)
-
-  <a href="https://linkedin.com/in/jamesovallebarrera/" target="blank" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/jamesovallebarrera/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi perfil de LinkedIn" />
   </a>
 
-  <a href="mailto:jamesovallebarrera@gmail.com" style="text-decoration: none;">
+  <a href="mailto:jamesovallebarrera@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Envíame un correo" />
   </a>
 
-  <a href="" style="text-decoration: none;">
+  <a href="">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 
