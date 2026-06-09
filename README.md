@@ -164,15 +164,6 @@ Estas son algunas de las tecnologías con las que he trabajado y estoy aprendien
   <img src="" alt="" />
 </p>
 
-<!-- Crecimiento y Comunidad -->
-
-<h2 align="center">🌱 Aprendizaje y Desarrollo</h2>
-<ul>
-<li>🔭 Actualmente estoy enfocado al 100% en mis estudios de DAM, profundizando en <strong>Java, Python, TypeScript y JavaScript</strong>.</li>
-<li>🌱 También estoy explorando por mi cuenta los frameworks <strong>Angular y Vue</strong> para fortalecer mis habilidades en el ecosistema front-end.</li>
-<li>👯 Estoy muy abierto a <strong>colaborar en proyectos</strong> donde pueda aportar valor y, sobre todo, seguir aprendiendo de otros desarrolladores.</li>
-</ul>
-
 <!-- Estadísticas de GitHub -->
 
 <h2 align="center">📊 Mis Estadísticas en GitHub</h2>
