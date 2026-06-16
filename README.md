@@ -66,7 +66,9 @@ Estas son algunas de las tecnologías con las que he trabajado y estoy aprendien
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://camo.githubusercontent.com/95be90315862768b5da681e7185662fb1637e487eb536ffbffd1341d22c4bd33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e67253230426f6f742d3644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67626f6f74266c6f676f436f6c6f723d7768697465" alt="Spring Boot" />
+  <img src="https://camo.githubusercontent.com/de6cc7ce4f7459c80603009201e8a12ca41f0d7621d4d8f7d6dc6c76124123ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e6725323053656375726974792d3644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e677365637572697479266c6f676f436f6c6f723d7768697465" alt="Spring Security" />
   <img src="https://img.shields.io/badge/JUnit5-f5f5f5?style=for-the-badge&logo=junit5&logoColor=dc524a" alt="JUnit" />
   <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="" alt="" />
